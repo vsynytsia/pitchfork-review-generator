@@ -1,0 +1,9 @@
+aiohttp==3.9.0
+beautifulsoup4==4.12.2
+fake_headers==1.0.2
+fastapi==0.105.0
+numpy==1.26.2
+pandas==2.1.4
+pydantic==2.5.2
+torch==2.1.1
+uvicorn==0.24.0.post1
